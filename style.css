@@ -58,7 +58,7 @@ a {
 }
 
 a:hover {
-  /* text-shadow: 3px 3px 5px rgba(165, 13, 13, 0.775); */
+  text-shadow: 3px 3px 5px rgba(165, 13, 13, 0.775);
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
 }
